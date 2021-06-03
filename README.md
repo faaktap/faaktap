@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+<!-- TABLE OF CONTENTS -->
+<h2 id="table-of-contents"> :book: Table of Contents</h2>
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about"> ➤ About The Project</a></li>
+    <li><a href="#ovevw"> ➤ Overview</a></li>
+    <li><a href="#prdes"> ➤ Project Files Description</a></li>
+    <li><a href="#gtstd"> ➤ Getting Started</a></li>
+    <li><a href="#refcs"> ➤ References</a></li>
+    <li><a href="#creds"> ➤ Credits</a></li>
+  </ol>
+</details>
+
 <!--
 **faaktap/faaktap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
