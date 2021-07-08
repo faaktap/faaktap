@@ -1,2 +1,6 @@
-{ "ghp" : "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",
-, "weather" : "66e7a2bdcec81b879b7f8a8a3d2a55e2"}
+{
+    "github"    : "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",
+    "weather"   : "66e7a2bdcec81b879b7f8a8a3d2a55e2",
+    "city"      : "Cape Town",
+    "units"     : "metric"
+}
